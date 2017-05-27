@@ -32,8 +32,14 @@ During iterviews one could be asked about html and css in general just as part o
 A few tips: workout before the interview, during the interview try to be nice and relax.
 
 
-4th - 12th Activities:
+Rest of Activities:
 url of github exercises: https://github.com/galiciaofelia/activities-week5.3
+	
+	- 12-bash
+	- 15-file_extension
+	- 16-fizz_buzz
+	- 18-git_github
+	- 23-prime_checker
 
 
 
