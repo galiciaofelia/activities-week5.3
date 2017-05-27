@@ -1,0 +1,75 @@
+CODING BOOT CAMP Summary (Saturday, May 20th, 2017)
+
+- Javascript programmers count for less than 1% in the world.
+- Javascript is one of the top ten languages.
+- Programmers are highly sought and well paid. Javascript is a great skill to master.
+ 
+
+ACTIVITIES DURING CLASS ---
+
+1st. Activity (10 minutes):
+Visualize a problem through a question in order to think how to order ideas and get a sense on where to start when writing code.
+Write down ideas without opening the internet:
+- What’s the high selling product in Walmart?
+	Answer: bananas
+- This exercise was to try to think about the problem visualize the problem first without help of the internet. Think before ideas before start coding. Always important to have a notebook at hand to write ideas.
+
+2nd Activity (15 minutes):
+Still no Javascript, no code and can use google this time (15 minutes).
+It was given an array of 51 cards and each card had properties and objects: hearts, diamonds, spades and aces. This exercise is try to conceptualize what is needed in order to find the missing card through pseudo-coding first (loops, functions).
+In an interview we can encounter a problem like this one, but first we need to start visualizing the problem first, think about the problem and then start coding.
+
+Interviews would be the main focus of this class. Nowdays, usually two or four stages:
+1. Lite, basic questions, not very technical
+2. Then a bit more complex questions like what's the difference between javascript and jquery.
+3. Inperson in front of a whiteboard, computer or inperson for one or two hours.
+4. At the end will ask behavior questions they want to see you passionate at what you do.
+
+
+3rd Activity (10 minutes):
+A list of questions that we may encounter during an interview was given. It was strongly advise to start answering these questions. By start answering the questions we would be more prepared.
+During iterviews one could be asked about html and css in general just as part of the interview but we need to focus mainly in javascript. We are encouraged during an interview to ask questions too.
+A few tips: workout before the interview, during the interview try to be nice and relax.
+
+
+4th - 12th Activities:
+url of github exercises: https://github.com/galiciaofelia/activities-week5.3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
