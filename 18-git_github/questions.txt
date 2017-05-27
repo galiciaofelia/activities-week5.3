@@ -1,0 +1,51 @@
+# Git Basic Interview Questions
+
+1. What is the difference between Git and GitHub?
+
+   - Git is a revision control system, a tool to manage your source code history.
+   - GitHub is a remote repository.
+
+2. Why would you use Git?
+
+   -  Git can be used as a server out of the box. Dedicated Git server software helps, amongst other features, to add access control, display the contents of a Git repository via the web, and help managing multiple repositories.
+
+3. Why would you use GitHub?
+
+   - GitHub is Git’s cloud-based publishing tool and hosting platform. It also has a desktop application for locally storing projects..
+
+4. What is the first step necessary to create a _local_ Git repository?
+
+ - git init
+
+6. Once a repository is created and linked to GitHub, what are the three commands you need to do each time you create or modify files to send something up to GitHub?
+
+   - git add
+   - git commit -m "comment"
+   - git push origin
+
+7. How do you update your local repository from GitHub?
+
+   - git pull origin
+
+8. What is one way to create a new branch?
+
+   - `git branch "branchname"
+
+9. What is one way to check and see what branch you are currently in? (a terminal/bash command)
+
+   - git branch
+
+10. What is it called when you make a request on GitHub to merge a branch into another branch?
+
+    - Merge
+
+11. How would you delete a _local_ Git repository?
+
+    - rm -R
+
+12. What does `git clone` do?
+
+    - Clones a GitHub repo to my computer.
+
+13. What is "branching" for?
+    - A branch in Git is simply a lightweight movable pointer to one of the commits.
